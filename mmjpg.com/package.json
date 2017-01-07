@@ -1,0 +1,18 @@
+{
+  "name": "mmjpg.com",
+  "version": "1.0.0",
+  "description": "mmjpg.com的所有图片",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cheerio": "*",
+    "request": "*"
+  },
+  "keywords": [
+    "mmjpg"
+  ],
+  "author": "zhengyaing",
+  "license": "ISC"
+}
